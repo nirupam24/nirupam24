@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nirupam web
 
 You can use the [editor on GitHub](https://github.com/nirupam24/nirupam24/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
